@@ -1,0 +1,2 @@
+[run]
+omit=diploma/*,manage.py,tests/*,
